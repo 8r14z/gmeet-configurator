@@ -1,0 +1,9 @@
+{
+    "name": "Gmeet Configurator",
+    "description" : "The extension that allows you to control your gmeet calls",
+    "version": "0.1",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": ""
+    }
+}
